@@ -2,4 +2,4 @@ service:
   type: LoadBalancer
 
 
-replicaCount: 3
+replicaCount: 4
